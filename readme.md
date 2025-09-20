@@ -1,10 +1,7 @@
 # Clone OG Animal Company (Xera Backend)
 
 CREDITS:
-0x11/Xera - Developer  
-Drycheetah - Provided request logs
-Alex - Provided me with game-data-prod for most versions
-
+Xera - Developer  
 1. Install Base APK & Gamedata
 - Use QuestAppVersionSwitcher to get target APK version
 - Go to the /gamedata folder in this repo and download the wanted game data (only a few are available)
