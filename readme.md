@@ -1,6 +1,7 @@
 # Clone OG Animal Company (Xera Backend)
 
 CREDITS:
+
 Xera - Developer  
 1. Install Base APK & Gamedata
 - Use QuestAppVersionSwitcher to get target APK version
