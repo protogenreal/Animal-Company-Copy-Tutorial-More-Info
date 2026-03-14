@@ -4,6 +4,7 @@ CREDITS:
 
 Xera - Developer  
 Protogen - Adding to guide
+YepsVR - unobfuscated everything
 
 1. Install Base APK & Gamedata
 - Use QuestAppVersionSwitcher to get target APK version
@@ -11,7 +12,7 @@ Protogen - Adding to guide
 
 2. Decompile APK
 - Use APKToolGUI or similar to unpack
-
+# SKIP TO AUTH IF YOUR VERSION ISNT IN THE game-data FOLDER.
 3. Patch Server URL
 - Open global-metadata.dat in MetaDataStringEditor
 - Ctrl+F:
